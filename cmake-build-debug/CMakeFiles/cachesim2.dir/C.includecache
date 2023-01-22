@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/przbr/OneDrive/Desktop/Coding/CLion/cachesim2/cachesim2.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
